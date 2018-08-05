@@ -2,7 +2,7 @@
 Stunden- und Tagerechner
 Die Software funktioniert wie eine für die Zeiterfassung optimierte Tabellenkalkulation. Sie ist auf maximale Bedienungsfreundlichkeit getrimmt.
 
-![Screenshot](master/screenshot.png)
+![Screenshot](screenshot.png)
 
 Arbeitsstunden innerhalb einer Woche, Überstunden in einem Monat und andere Zeitspannen lassen sich mit diesem Programm mühelos zusammenrechnen - sogar für mehrere Personen.
 
