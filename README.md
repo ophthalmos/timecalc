@@ -10,4 +10,4 @@ Die Software funktioniert wie eine für die Zeiterfassung optimierte Tabellenkal
 
 Die Tabelle kann gespeichert werden. Durch Anlegen einer entsprechenden Verknüpfung ist es auch möglich, das Programm mit gespeicherten Werten zu starten und diese fortzuschreiben.
 
-Ab Version 1.7 ist es einfach möglich Daten aus der vom Bundesministerium für Arbeit und Soziales (BMAS) kostenlos angebotenen Zeiterfassungs-App "einfach erfasst" zu importieren. Dadurch empfiehlt sich das Programm als Analyse- und Archivierungs-Tool der per App gesammelten Daten.
+Ab Version 1.7 ist es einfach möglich Daten aus der vom [Bundesministerium für Arbeit und Soziales (BMAS) kostenlos angebotenen Zeiterfassungs-App "einfach erfasst"](https://www.bmas.de/DE/Themen/Arbeitsrecht/Mindestlohn/mindestlohn-app-einfach-erfasst.html) zu importieren. Dadurch empfiehlt sich das Programm als Analyse- und Archivierungs-Tool der per App gesammelten Daten.
