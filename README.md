@@ -1,5 +1,5 @@
-# TimeCalc
-Stunden- und Tagerechner
+# TimeCalc - Stunden- und Tagerechner
+
 Die Software funktioniert wie eine für die Zeiterfassung optimierte Tabellenkalkulation. Sie ist auf maximale Bedienungsfreundlichkeit getrimmt.
 
 ![Screenshot](screenshot.png)
